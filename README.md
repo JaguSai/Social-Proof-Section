@@ -1,4 +1,4 @@
-# Frontend Mentor - Social proof section solution
+# Social Proof Section - Frontend Mentor Challenge
 
 ## Table of contents
 
@@ -30,8 +30,8 @@ Mobile Version:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/JaguSai/Social-Proof-Section]
+- Live Site URL: [https://jagusai.github.io/Social-Proof-Section/]
 
 ### Built with
 
