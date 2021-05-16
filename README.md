@@ -20,9 +20,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop_design.png)
+![ScreenShot](./desktop_design.png)
 
-![](./mobile_design.png)
+![ScreenShot](./mobile_design.png)
 
 ### Links
 
