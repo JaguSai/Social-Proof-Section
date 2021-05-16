@@ -20,7 +20,11 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop Version: 
+
 ![ScreenShot](./design/desktop_design.png)
+
+Mobile Version:
 
 ![ScreenShot](./design/mobile_design.png)
 
