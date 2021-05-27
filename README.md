@@ -31,12 +31,4 @@ Mobile Version:
 ### Links
 
 - Solution URL: [https://github.com/JaguSai/Social-Proof-Section]
-- Live Site URL: [https://jagusai.github.io/Social-Proof-Section/]
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
+- Live Site URL: [https://challenge-social-proof-section.netlify.app/]
